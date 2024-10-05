@@ -53,4 +53,7 @@ dependencies {
 
     implementation(libs.circleimageview)
     implementation(libs.glide)
+    implementation(libs.androidx.core.splashscreen)
+
+
 }

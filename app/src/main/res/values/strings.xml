@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">My Favorite Movie List</string>
+
+    <string name="heroes_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="rating">5/10</string>
+    <string name="list">list</string>
+    <string name="grid">grid</string>
+    <string name="my_name">Rama Audra Aji Pangestu</string>
+    <string name="my_email">ramaaudra30.ra@gmail.com</string>
+    <string name="share">Share</string>
+    <string-array name="data_name">
+        <item>Interstellar</item>
+        <item>Dawn of the Dead</item>
+        <item>Inception</item>
+        <item>Parasite</item>
+        <item>Saving Private Ryan</item>
+        <item>World War Z</item>
+        <item>Shawshank Redemption</item>
+        <item>The Dark Knight</item>
+        <item>Godfather</item>
+        <item>Dune Part Two</item>
+        <item>Green Book</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Film Interstellar berlatar di masa depan ketika Bumi sedang berada di ambang kehancuran akibat bencana lingkungan seperti badai pasir dan kegagalan panen yang menyebabkan kelangkaan pangan. Umat manusia berada dalam ancaman kepunahan, dan satu-satunya harapan terletak pada misi luar angkasa yang berani. Cooper, seorang mantan pilot NASA yang kini menjadi petani, direkrut oleh para ilmuwan untuk memimpin ekspedisi ke luar galaksi melalui lubang cacing, yang ditemukan di dekat Saturnus. Bersama sekelompok astronot, Cooper harus menjelajahi planet-planet baru yang berpotensi layak huni bagi umat manusia. Di tengah misi yang penuh bahaya dan ketidakpastian ini, mereka dihadapkan pada tantangan ilmiah yang mendalam, seperti relativitas waktu, medan gravitasi ekstrem, dan risiko teknologi yang mempengaruhi keputusan mereka.\nNamun, di luar tantangan teknis, film ini juga menyentuh aspek emosional yang kuat. Cooper harus menghadapi keputusan sulit antara melanjutkan misi yang bisa menyelamatkan umat manusia atau kembali ke Bumi untuk bersama anak-anaknya, yang terus bertambah tua tanpa kehadirannya karena distorsi waktu yang terjadi di luar angkasa. Sementara itu, konflik batin ini semakin diperparah dengan penemuan-penemuan yang mengguncang, serta pertanyaan mendalam tentang takdir, cinta, dan eksistensi manusia. Interstellar mengeksplorasi makna kehidupan dan pengorbanan, dibalut dengan efek visual yang memukau dan eksplorasi ilmiah yang mendalam.”
+“Namun, di luar tantangan teknis, film ini juga menyentuh aspek emosional yang kuat. Cooper harus menghadapi keputusan sulit antara melanjutkan misi yang bisa menyelamatkan umat manusia atau kembali ke Bumi untuk bersama anak-anaknya, yang terus bertambah tua tanpa kehadirannya karena distorsi waktu yang terjadi di luar angkasa. Sementara itu, konflik batin ini semakin diperparah dengan penemuan-penemuan yang mengguncang, serta pertanyaan mendalam tentang takdir, cinta, dan eksistensi manusia. Interstellar mengeksplorasi makna kehidupan dan pengorbanan, dibalut dengan efek visual yang memukau dan eksplorasi ilmiah yang mendalam.</item>
+        <item>Dawn of the Dead mengikuti sekelompok penyintas yang terjebak di pusat perbelanjaan saat wabah zombie melanda. Dalam usaha bertahan hidup, mereka menghadapi ancaman dari zombie dan konflik internal yang mulai merobek solidaritas di antara mereka. Ketika persediaan menipis, ketegangan meningkat, dan film ini mengungkapkan kritik sosial terhadap kapitalisme dan perilaku manusia dalam krisis.\n
+Dengan elemen horor dan komedi gelap, Dawn of the Dead lebih dari sekadar film tentang zombie; ia menggali sifat kemanusiaan di saat-saat terburuk, mempertanyakan bagaimana kita berinteraksi dan berjuang untuk bertahan hidup dalam keadaan ekstrem.</item>
+        <item>Dalam Inception, Dom Cobb adalah pencuri yang mengkhususkan diri dalam mencuri informasi dari alam bawah sadar orang lain saat bermimpi. Diberi misi untuk menanamkan ide di pikiran seseorang, ia mengumpulkan tim untuk menjelajahi lapisan mimpi yang semakin dalam. Namun, kenangan akan istrinya yang telah meninggal mengancam kesuksesan mereka, menciptakan ketegangan antara misi dan perasaan pribadinya.\n
+Film ini menggabungkan tema mimpi versus kenyataan dengan efek visual yang memukau, menggali bagaimana pengalaman masa lalu membentuk pikiran kita. Inception adalah kisah mendebarkan tentang pencarian identitas dan tujuan hidup, yang meninggalkan penonton merenungkan batasan antara realitas dan ilusi.</item>
+        <item>Parasite mengikuti kehidupan keluarga Kim yang hidup dalam kemiskinan dan berjuang untuk mencari nafkah. Mereka berhasil menyusup ke dalam kehidupan keluarga Park yang kaya dengan mengambil berbagai pekerjaan di rumah mereka. Namun, ketika rahasia keluarga mereka terancam terbongkar, ketegangan antara kedua keluarga meningkat dengan cara yang tak terduga. Film ini menyoroti perbedaan kelas dan ketidaksetaraan yang ada di masyarakat modern, dengan menampilkan bagaimana perjuangan untuk bertahan hidup dapat membawa individu pada keputusan moral yang kompleks.\n
+Dengan paduan humor gelap dan kritik sosial yang tajam, Parasite menjadi lebih dari sekadar kisah tentang dua keluarga yang terpisah oleh status sosial. Film ini mengeksplorasi dinamika kekuasaan, ambisi, dan keinginan manusia untuk mendapatkan tempat yang lebih baik dalam kehidupan. Melalui narasi yang mendebarkan dan karakter yang kompleks, Parasite menciptakan refleksi mendalam tentang nilai kemanusiaan di tengah kesenjangan sosial yang semakin besar.</item>
+        <item>Saving Private Ryan menggambarkan perjuangan Kapten John Miller dan timnya dalam mencari prajurit James Ryan, yang kehilangan ketiga saudaranya dalam Perang Dunia II. Diberikan tugas berbahaya ini, mereka harus melewati pertempuran brutal di Pantai Omaha, menghadapi ketakutan dan kehilangan di setiap langkah. Film ini menyoroti realisme perang dengan adegan aksi yang mendebarkan, sambil menggali ikatan antara prajurit dan dilema moral yang mereka hadapi ketika mempertaruhkan nyawa demi menyelamatkan satu orang.\n
+Dengan pesan tentang pengorbanan dan kemanusiaan di tengah kekacauan, Saving Private Ryan berhasil menyentuh hati penonton. Karya ikonik ini menggambarkan perjuangan yang dialami oleh prajurit dan pentingnya persahabatan dalam menghadapi situasi yang mengancam nyawa. Melalui pengalaman karakter-karakternya, film ini memberikan pandangan mendalam tentang nilai kemanusiaan dan kekuatan yang dibutuhkan untuk bertahan dalam situasi paling sulit.</item>
+        <item>Dalam World War Z, Gerry Lane, seorang mantan penyidik PBB, ditugaskan untuk menemukan cara menghentikan wabah zombie yang mengancam peradaban global. Dalam perjalanannya, ia menjelajahi berbagai negara, menghadapi tantangan dari zombie yang cepat dan tangguh, serta konflik politik internasional. Meskipun dunia berada dalam kekacauan, Gerry tetap berjuang untuk kembali ke keluarganya, menunjukkan ketahanan dan dedikasi di tengah ancaman yang terus meningkat.\n
+Film ini menyajikan ketegangan dan aksi yang mendebarkan, sambil menyoroti perjuangan Gerry untuk menemukan solusi di saat-saat paling gelap. World War Z menciptakan gambaran mendalam tentang ketahanan manusia, pentingnya solidaritas, dan bagaimana masyarakat dapat bersatu dalam menghadapi ancaman besar. Dengan narasi yang penuh ketegangan dan karakter yang relatable, film ini menjadi refleksi tentang tantangan yang dihadapi umat manusia dan harapan untuk masa depan yang lebih baik.</item>
+        <item>The Shawshank Redemption menceritakan kisah Andy Dufresne, seorang banker yang dijatuhi hukuman penjara seumur hidup di Shawshank atas tuduhan pembunuhan istrinya dan kekasihnya. Di penjara, ia bertemu dengan Ellis “Red” Redding, seorang narapidana yang terkenal karena kemampuannya mendapatkan barang-barang ilegal. Andy menggunakan kepintarannya untuk mengubah kehidupan di penjara, membangun perpustakaan, dan membantu narapidana lain, sembari merencanakan pelarian yang cermat dari Shawshank.\n
+Film ini menggambarkan tema harapan dan persahabatan yang kuat di tengah kondisi yang sangat sulit. Dengan narasi yang mendalam dan karakter yang kompleks, The Shawshank Redemption menunjukkan bagaimana semangat manusia dapat bertahan bahkan di dalam kegelapan. Pesan tentang kekuatan harapan dan pentingnya kebebasan menjadikan film ini sebagai salah satu karya klasik yang tak terlupakan.</item>
+        <item>Dalam The Dark Knight, Batman berhadapan dengan musuh terbesarnya, Joker, seorang penjahat yang ingin menanamkan kekacauan di Gotham City. Dengan bantuan Komisaris Gordon dan Harvey Dent, Batman berusaha menghentikan rencana Joker yang semakin gila, tetapi tindakan Joker menguji moralitas dan batas-batas keadilan yang diyakini oleh Batman. Ketika Gotham terjebak dalam dilema antara kebaikan dan kejahatan, film ini menjelajahi konsekuensi dari keputusan-keputusan yang diambil oleh setiap karakter.
+The Dark Knight bukan hanya sekadar film superhero; ia adalah komentar sosial yang mendalam tentang ketidakpastian dan ambiguitas moral. Dengan penampilan ikonik Heath Ledger sebagai Joker, film ini menghadirkan karakter yang penuh warna dan plot yang menegangkan, menjadikannya salah satu film superhero paling berpengaruh dalam sejarah sinema. Narasi yang kompleks dan tema yang relevan menjadikan The Dark Knight sebuah karya yang menggugah pemikiran tentang keadilan dan pengorbanan.\n</item>
+        <item>Film ini menggambarkan kehidupan keluarga mafia Corleone, yang dipimpin oleh Don Vito Corleone, seorang pemimpin mafia yang dihormati dan ditakuti. Ketika Don Vito mulai menua, anak-anaknya, terutama Michael Corleone yang awalnya menjauh dari bisnis keluarga, secara perlahan terlibat dalam dunia kriminal yang penuh intrik dan kekerasan. ‘The Godfather’ tidak hanya menceritakan tentang kehidupan mafia, tetapi juga tentang kesetiaan, kekuasaan, pengkhianatan, dan keluarga. Film ini menjadi salah satu karya sinema terbesar sepanjang masa, menampilkan kisah epik tentang kekuasaan dan moralitas di dunia kriminal.</item>
+        <item>Dalam kelanjutan dari saga epik Dune, Paul Atreides kini menghadapi nasib yang jauh lebih besar di tengah kekacauan politik galaksi. Setelah kejatuhan keluarganya dan pengkhianatan yang menghancurkan, Paul bersekutu dengan kaum Fremen di gurun Arrakis. Bersama-sama, mereka mempersiapkan pemberontakan melawan para musuh yang mengincar sumber daya paling berharga di galaksi, ‘spice’. Paul harus memutuskan antara memenuhi takdirnya sebagai pemimpin Mesias atau melindungi orang-orang yang ia cintai. Dengan visual yang memukau dan skala epik yang luas, ‘Dune Part Two’ melanjutkan eksplorasi tema kekuasaan, pengorbanan, dan kelangsungan hidup</item>
+        <item>Mengambil latar belakang tahun 1960-an di Amerika Serikat, film ini mengikuti perjalanan Tony Lip, seorang penjaga klub malam yang kasar namun baik hati, yang dipekerjakan untuk menjadi sopir Dr. Don Shirley, seorang pianis kulit hitam yang sangat terpelajar dan berbakat. Shirley melakukan tur konser di wilayah Amerika Selatan yang masih sangat dipenuhi dengan segregasi rasial. Dalam perjalanan ini, Tony dan Shirley harus menghadapi rasisme yang mengerikan, prasangka, dan ketidakadilan sosial. Namun, di tengah perbedaan mereka, sebuah persahabatan yang tak terduga mulai terbentuk. ‘Green Book’ menggambarkan kisah menyentuh tentang perbedaan budaya, kemanusiaan, dan pengertian satu sama lain</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/1/16/Dawn_of_the_Dead_2004_movie.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/d/dc/World_War_Z_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/5/52/Dune_Part_Two_poster.jpeg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/5/5b/Green_Book_%282018_poster%29.png</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>9.0/10</item>
+        <item>8.0/10</item>
+        <item>9.0/10</item>
+        <item>8.5/10</item>
+        <item>8.5/10</item>
+        <item>8.0/10</item>
+        <item>8.5/10</item>
+        <item>8.5/10</item>
+        <item>8.5/10</item>
+        <item>9.0/10</item>
+        <item>9/10</item>
+    </string-array>
+
+</resources>
